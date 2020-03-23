@@ -1,2 +1,2 @@
-# Python
+# github-codes
 Python learning
